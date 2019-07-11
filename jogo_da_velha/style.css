@@ -1,0 +1,60 @@
+body{
+    background: rgb(58, 58, 92);
+    font: normal 15pt Tahoma;
+
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
+    
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+input.buttons{
+    width: 100pt;
+    padding: 5pt;
+    margin-left: 135pt;
+    margin-top: 5pt;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
+}
+
+input.fields{
+    width: 200pt;
+    padding: 5pt;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
+}
+
+div.inicio{
+    margin-top: 10pt;
+    border-radius: 10px;
+}
+
+label.lbl{
+    margin-left: 10pt;
+}
+
+p.pnome{
+    margin-left: 10pt;
+}
+
+input#btnLoad{
+    width: 100pt;
+    height: 25pt;
+}
